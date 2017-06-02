@@ -1,0 +1,169 @@
+
+/*导航*/
+#nav{
+	margin-bottom: -20px;
+}
+#nav ul .activ a{
+	color: #acf2f2;
+}
+#nav .navbar-brand{
+	padding-left: 200px;
+	padding-right: 150px;
+}
+@media (max-width:768px ) {
+	#nav .navbar-brand{
+	padding-left: 0;
+  }
+}
+/*轮播图*/
+#lun{
+	width: 100%;
+	height: auto;
+	background: #f8f7f2;
+	padding-bottom: 20px;
+}
+#lun h3{
+	padding-top: 120px;
+}
+#lun .xian{
+	width: 132px;
+	border-top: 2px #42a29b solid;
+	padding-bottom: 20px;
+}
+#lun .zuo{
+	padding-top: 250px;
+	padding-left: 150px;
+}
+#lun .you{
+	padding-top: 250px;
+	padding-right: 50px;
+}
+#lun h5{
+	padding-top: 120px;
+}
+#lun .img2{
+	padding-top: 120px;
+}
+/*俩图*/
+#lia{
+	padding: 50px 0;
+}
+/*公司动态*/
+#gong{
+	width: 100%;
+	height: 500px;
+	background: url(../images/images/dfgdgdf.jpg) no-repeat;
+}
+#gong .cent{
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
+#gong .cent a{
+	display: inline-block;
+	width: 130px;
+	height: 38px;
+	line-height: 38px;
+	border: 1px #42a29b solid;
+	color: #42a29b;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 20px;
+	text-decoration: none;
+}
+#gong h5{
+	color: white;
+	padding-top: 10px;
+}
+#gong .one{
+	color: white;
+}
+#gong .one1{
+	color: darkgrey;
+}
+/*媒体报道*/
+#mei .cente{
+	text-align: center;
+	padding-top: 100px;
+}
+#mei .cente a{
+	display: inline-block;
+	width: 130px;
+	height: 38px;
+	line-height: 38px;
+	border: 1px #ffd761 solid;
+	color: #42a29b;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 20px;
+	text-decoration: none;
+}
+#mei .pull-right{
+	color: darkgray;
+}
+#mei .one1{
+	font-size: 12px;
+}
+#mei .panel-default{
+	margin-top: 60px;
+}
+#mei .xia{
+	margin-top: 60px;
+}
+#mei .zhong{
+	margin-left: 70px;
+	margin-right: 50px;
+	width: 58px;
+	height: 1050px;
+}
+#mei .one2{
+	margin-top: 200px;
+}
+/*他们的选择*/
+#ta{
+	
+}
+#ta .cent{
+	text-align: center;
+	padding-bottom: 60px;
+}
+#ta .cent a{
+	display: inline-block;
+	width: 130px;
+	height: 38px;
+	line-height: 38px;
+	border: 1px #42a29b solid;
+	color: #42a29b;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 20px;
+	text-decoration: none;
+}
+/*友情链接*/
+#you{
+	padding: 30px;
+}
+#you a{
+	text-decoration: none;
+	color: darkgray;
+	padding-right: 40px;
+}
+/*底部*/
+#footer{
+	background: #ecf0f3;
+	width: 100%;
+	height: auto;
+}
+#footer .p1{
+	padding-top: 30px;
+}
+#footer .p2{
+	padding-bottom: 20px;
+}
+#footer a{
+	text-decoration: none;
+	color: black;
+}
